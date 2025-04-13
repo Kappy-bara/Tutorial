@@ -1,2 +1,4 @@
 # Tutorial
-Learn basics of GitHub.
+README.md is a file present in almost all repository. It is the first file you should read before working on the project.
+ReadMe may contain basic details about the project and about how to contribute to the project.
+# ========
