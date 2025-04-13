@@ -4,3 +4,5 @@ ReadMe may contain basic details about the project and about how to contribute t
 
 In this tutorial repo, our task is to make a c++ program to perform some pathfinding algorithms on a Grid.
 For info [Go to Task File](Task)
+
+Learn about the steps to follow to [start contributing](Instructions).
