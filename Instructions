@@ -1,6 +1,6 @@
 #Instructions
 1> First you need to Fork the repository. 
-Forking a repository means creating a clone of the repository where any changes made doesnt affect the main one.
+Forking a repository means creating a clone of the repository where any changes made doesn't affect the main one.
 
 2> Open the repository in GitHub Desktop/ Git Bash etc. in your local machine.
 3> Create a temporary branch.
