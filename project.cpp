@@ -36,8 +36,5 @@ class Grid{
     }
 };
 int main(){
-    Grid g(5, 5);
-    g.SetObstacle(1, 1);
-    g.SetObstacle(2, 2);
-    g.PrintGrid();
+    
 }
