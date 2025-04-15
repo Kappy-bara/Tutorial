@@ -3,8 +3,8 @@ README.md is a file present in almost all repository. It is the first file you s
 ReadMe may contain basic details about the project and about how to contribute to the project.
 
 In this tutorial repo, our task is to make a c++ program to perform some pathfinding algorithms on a Grid.
-For info [Go to Task File](Task)
+For info [Go to Task File](Task.md)
 
-Learn about the steps to follow to [start contributing](Instructions)
+Learn about the steps to follow to [start contributing](Instructions.md)
 
 [Project File](project.cpp)
